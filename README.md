@@ -4,7 +4,7 @@ Are you a recruiter? Check out these links:
 
 [LinkedIn](https://www.linkedin.com/in/brianvuong8/) <a href="Brian Vuong - Resume.pdf">Resume</a>
 
-<embed src= "Brian Vuong - Resume.pdf" type="application/pdf" width= "500" height= "375">
+<embed src= "resume_for_website.pdf" type="application/pdf" width= "600" height= "1000">
 
 
 ### Education
