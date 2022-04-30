@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
 title: Brian Vuong
+logo: assets/headshot.png
 github:
   is_project_page: false
