@@ -8,7 +8,7 @@ Are you a recruiter? Check out these links:
 
 
 ### Education
-Bachelor of Computer Science - University of Waterloo - Sept 2017 to Apr 2022
+Bachelor of Computer Science - University of Waterloo - Sept 2017 to Jun 2022
 
 
 
